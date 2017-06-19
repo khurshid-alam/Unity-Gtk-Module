@@ -81,6 +81,7 @@ Section: libs
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends},
+Breaks: ubuntu-session (<< 3.24.1-0ubuntu3~),
 Description: Common files for GtkMenuShell D-Bus exporter
  This GTK+ module exports GtkMenuShells over D-Bus.
  .
