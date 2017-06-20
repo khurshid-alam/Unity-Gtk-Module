@@ -1,4 +1,4 @@
-unity-gtk-module (0.0.0+17.04.20170918-0ubuntu1) UNRELEASED; urgency=medium
+unity-gtk-module (0.0.0+17.04.20170918-0ubuntu1) artful; urgency=medium
 
   * Rename ubuntu-session systemd target to unity-session to inline with
     new session name:
