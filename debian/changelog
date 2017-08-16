@@ -1,3 +1,10 @@
+unity-gtk-module (0.0.0+17.10.20170815-0ubuntu1) artful; urgency=medium
+
+  * Remove DnD windows from the hijack and always use RGBA visual in
+  realize. (LP: #1710999)
+
+ -- Martin Wimpress <martin.wimpress@ubuntu.com>  Tue, 15 Aug 2017 22:14:40 +0100
+
 unity-gtk-module (0.0.0+17.04.20170918-0ubuntu1) artful; urgency=medium
 
   * Rename ubuntu-session systemd target to unity-session to inline with
