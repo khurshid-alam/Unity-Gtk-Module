@@ -1,3 +1,11 @@
+unity-gtk-module (0.0.0+17.10.20170817-0ubuntu1) artful; urgency=medium
+
+  * Properly limit the workaround to DnD windows only to complete the
+    intended implementation for LP: #1710999. Thanks to Konstantin
+    Putin. (LP: #1658996)
+
+ -- Martin Wimpress <martin.wimpress@canonical.com>  Thu, 17 Aug 2017 11:46:19 +0000
+
 unity-gtk-module (0.0.0+17.10.20170816-0ubuntu1) artful; urgency=medium
 
   * Remove DnD windows from the hijack and always use RGBA visual in
