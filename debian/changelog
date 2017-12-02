@@ -1,3 +1,10 @@
+unity-gtk-module (0.0.0+18.04.20171202-0ubuntu1) bionic; urgency=medium
+
+  * Don't depend on GTK+ 2 to allow these GTK+ 2 modules to be pre-
+    installed without requiring GTK+ 2 to be installed too
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Sat, 02 Dec 2017 03:27:59 +0000
+
 unity-gtk-module (0.0.0+17.10.20170817-0ubuntu1) artful; urgency=medium
 
   * Properly limit the workaround to DnD windows only to complete the
